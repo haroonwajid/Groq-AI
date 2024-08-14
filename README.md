@@ -1,2 +1,2 @@
-# grok-AI
-chatbot made using Grok and llama 3
+# groq-AI
+chatbot made using Groq and llama 3
